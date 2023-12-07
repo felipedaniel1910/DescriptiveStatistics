@@ -1,8 +1,8 @@
-# Descriptive Statistics with R Repository
+# Descriptive Statistics with R 
 
 ## Overview
 
-Welcome to the Descriptive Statistics with R Repository! This project is dedicated to storing R codes for performing descriptive statistics. Whether you're a data analyst, statistician, or R enthusiast, this repository aims to provide a collection of code snippets and examples for exploring and summarizing data using R.
+Welcome to the Descriptive Statistics with R! This project is dedicated to storing R codes for performing descriptive statistics. Whether you're a data analyst, statistician, or R enthusiast, this repository aims to provide a collection of code snippets and examples for exploring and summarizing data using R.
 
 ## Features
 
